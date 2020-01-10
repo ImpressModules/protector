@@ -7,5 +7,3 @@ $mydirpath = dirname( __FILE__ ) ;
 require $mydirpath.'/mytrustdirname.php' ; // set $mytrustdirname
 
 require ICMS_TRUST_PATH.'/modules/'.$mytrustdirname.'/xoops_version.php' ;
-
-?>
