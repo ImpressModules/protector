@@ -1,2 +1,2 @@
 # protector
-Protector module for ImpressCMS
+The Protector module for ImpressCMS hardens ImpressCMS usage against malicious attacks.
